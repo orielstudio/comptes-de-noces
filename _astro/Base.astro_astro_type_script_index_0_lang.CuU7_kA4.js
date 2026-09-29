@@ -1,0 +1,1 @@
+import{n as e}from"./mesure.DynDKuQC.js";e(document.body.dataset.page??`inconnue`);
